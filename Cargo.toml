@@ -1,0 +1,13 @@
+[package]
+name = "binaryen-2716"
+version = "0.1.0"
+authors = ["pdugre"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+rust-argon2 = "0.8.1"
+wasm-bindgen = "0.2.59"
