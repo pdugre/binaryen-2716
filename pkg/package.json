@@ -1,0 +1,15 @@
+{
+  "name": "binaryen-2716",
+  "collaborators": [
+    "pdugre"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "binaryen_2716_bg.wasm",
+    "binaryen_2716.js",
+    "binaryen_2716.d.ts"
+  ],
+  "module": "binaryen_2716.js",
+  "types": "binaryen_2716.d.ts",
+  "sideEffects": false
+}
